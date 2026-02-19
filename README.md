@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mohamed Abdelaal (0xMRMA)
 
-<!--
-**0xmrma/0xmrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Penetration Tester • Offensive Security • Web & Network Security Testing**  
+📍 Cairo, Egypt • 🌐 https://0xmrma.com • GitHub: https://github.com/0xmrma • LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
 
-Here are some ideas to get you started:
+## Summary
+Offensive security-focused engineer with hands-on penetration testing experience through internships and practical labs.  
+Strong foundation in **web exploitation (OWASP Top 10)**, **network security fundamentals** (routing, VLANs, ACLs, VPNs), and **security reporting**.  
+I publish technical writeups and end-to-end attack-chain breakdowns (with mitigation) on **0xmrma.com**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Skills
+- **Web Security:** OWASP Top 10 testing (SQLi, XSS, auth issues), exploitation methodology
+- **Penetration Testing:** recon → exploitation workflows → post-exploitation fundamentals → reporting
+- **Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Hydra, Gobuster, FFUF, SQLMap, Hashcat
+- **Networking:** TCP/IP, VLANs, routing, ACLs, VPNs • FortiGate • Cisco fundamentals
+- **Methodologies:** OWASP Testing Guide, PTES, MITRE ATT&CK
+- **Programming:** Python, JavaScript, SQL (plus C++ / Java basics)
+
+## Featured Work
+- **Advanced FortiGate Security Profiles (Enterprise Security Lab)**  
+  Configured AV, IPS, Web Filtering, Application Control, and SSL inspection in an enterprise-style lab and validated controls using simulated attacks.  
+  Repo: https://github.com/0xmrma/Advanced-FortiGate-Security-Profiles
+
+- **AI Voice Phishing Detection Platform (Team Project)**  
+  NLP-based phishing detector (voice → text → suspicious content flagging).  
+  Link: https://0xmrma.com/startup-talk
+
+## Certifications
+- eWPTXv3 (INE)
+- eJPTv2 (INE)
+- Fortinet Certified Professional – Secure Networking (FCP-SN)
+- Fortinet FortiOS 7.6 Administrator (NSE 4)
+- Fortinet FortiManager 7.6 Administrator (NSE 5)
+- Cisco Networking Academy: CCNA v7 (Sem 1–3)
+
+## Contact
+- My site: https://0xmrma.com
+- LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
