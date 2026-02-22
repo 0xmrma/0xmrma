@@ -1,6 +1,6 @@
 # Mohamed Abdelaal (0xMRMA)
 
-**Junior Penetration Tester • Offensive Security • Web & Network Security Testing**  
+**Penetration Tester • Offensive Security Researcher • Web & Network Security Testing**  
 📍 Cairo, Egypt • 🌐 https://0xmrma.com • GitHub: https://github.com/0xmrma • LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
 
 ## Summary
@@ -11,7 +11,6 @@ I publish technical writeups and end-to-end attack-chain breakdowns (with mitiga
 ## Core Skills
 - **Web Security:** OWASP Top 10 testing (SQLi, XSS, auth issues), exploitation methodology
 - **Penetration Testing:** recon → exploitation workflows → post-exploitation fundamentals → reporting
-- **Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Hydra, Gobuster, FFUF, SQLMap, Hashcat
 - **Networking:** TCP/IP, VLANs, routing, ACLs, VPNs • FortiGate • Cisco fundamentals
 - **Methodologies:** OWASP Testing Guide, PTES, MITRE ATT&CK
 - **Programming:** Python, JavaScript, SQL (plus C++ / Java basics)
