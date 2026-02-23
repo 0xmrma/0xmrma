@@ -13,7 +13,7 @@ I publish technical writeups and end-to-end attack-chain breakdowns (with mitiga
 - **Penetration Testing:** recon → exploitation workflows → post-exploitation fundamentals → reporting
 - **Networking:** TCP/IP, VLANs, routing, ACLs, VPNs • FortiGate • Cisco fundamentals
 - **Methodologies:** OWASP Testing Guide, PTES, MITRE ATT&CK
-- **Programming:** Python, JavaScript, SQL (plus C++ / Java basics)
+- **Programming:** Assembly, Python, JavaScript, SQL (plus C++ / Java ),Node.js, Next.js, Express.js
 
 ## Featured Work
 - **Advanced FortiGate Security Profiles (Enterprise Security Lab)**  
