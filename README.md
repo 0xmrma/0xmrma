@@ -14,6 +14,7 @@ I publish technical writeups and end-to-end attack-chain breakdowns (with mitiga
 - **Networking:** TCP/IP, VLANs, routing, ACLs, VPNs • FortiGate • Cisco fundamentals
 - **Methodologies:** OWASP Testing Guide, PTES, MITRE ATT&CK
 - **Programming:**
+
 Low-Level: C++, Assembly  
 Scripting & Automation: Python  
 Backend & Web: JavaScript (Node.js, Express, Next.js), SQL
