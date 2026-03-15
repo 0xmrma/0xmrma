@@ -27,6 +27,9 @@ Backend & Web: JavaScript (Node.js, Express, Next.js), SQL
   NLP-based phishing detector (voice → text → suspicious content flagging).  
   Link: https://0xmrma.com/startup-talk
 
+## CVEs
+- CVE-2026-32722
+
 ## Certifications
 - eWPTXv3 (INE)
 - eJPTv2 (INE)
