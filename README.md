@@ -29,6 +29,7 @@ Backend & Web: JavaScript (Node.js, Express, Next.js), SQL
 
 ## CVEs
 - CVE-2026-32722
+- CVE-2026-33936
 
 ## Certifications
 - eWPTXv3 (INE)
