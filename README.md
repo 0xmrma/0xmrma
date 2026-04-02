@@ -4,24 +4,9 @@
 📍 Cairo, Egypt • 🌐 https://0xmrma.com • LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
 
 ## Summary
-Offensive security-focused engineer with hands-on penetration testing experience through internships and practical labs.  
-Strong foundation in **web exploitation (OWASP Top 10)**, **network security fundamentals** (routing, VLANs, ACLs, VPNs), and **security reporting**.  
-I publish technical writeups and end-to-end attack-chain breakdowns (with mitigation) on **0xmrma.com**.
-
-## Core Skills
-- **Web Security:** OWASP Top 10 testing (SQLi, XSS, auth issues), exploitation methodology
-- **Penetration Testing:** recon → exploitation workflows → post-exploitation fundamentals → reporting
-- **Networking:** TCP/IP, VLANs, routing, ACLs, VPNs • FortiGate • Cisco fundamentals
-- **Methodologies:** OWASP Testing Guide, PTES, MITRE ATT&CK
-- **Programming:**
-Low-Level: C++, Assembly  
-Scripting & Automation: Python  
-Backend & Web: JavaScript (Node.js, Express, Next.js), SQL
+Offensive security-focused engineer and security researcher with hands-on penetration testing experience across labs, internships, and real-world open-source vulnerability research. Identified and responsibly disclosed vulnerabilities in 30+ GitHub projects, with 8x CVEs assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting
 
 ## Featured Work
-- **Advanced FortiGate Security Profiles (Enterprise Security Lab)**  
-  Configured AV, IPS, Web Filtering, Application Control, and SSL inspection in an enterprise-style lab and validated controls using simulated attacks.  
-  Repo: https://github.com/0xmrma/Advanced-FortiGate-Security-Profiles
 
 - **AI Voice Phishing Detection Platform (Team Project)**  
   NLP-based phishing detector (voice → text → suspicious content flagging).  
@@ -30,6 +15,7 @@ Backend & Web: JavaScript (Node.js, Express, Next.js), SQL
 ## CVEs
 - CVE-2026-32722
 - CVE-2026-33936
+- CVE-2026-34828
 
 ## Certifications
 - eWPTXv3 (INE)
