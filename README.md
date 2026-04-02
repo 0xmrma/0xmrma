@@ -7,8 +7,7 @@
 Offensive security-focused engineer and security researcher with hands-on penetration testing experience across labs, internships, and real-world open-source vulnerability research. Identified and responsibly disclosed vulnerabilities in 30+ GitHub projects, with 8x CVEs assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting
 
 ## Featured Work
-
-- **AI Voice Phishing Detection Platform (Team Project)**  
+- **AI Voice Phishing Detection Platform**  
   NLP-based phishing detector (voice → text → suspicious content flagging).  
   Link: https://0xmrma.com/startup-talk
 
