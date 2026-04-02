@@ -1,6 +1,6 @@
 # Mohamed Abdelaal (0xMRMA)
 
-**Penetration Tester • Offensive Security Researcher • Web & Network Security Testing**  
+• **Penetration Tester • Security Researcher • Web & Network Security Testing**  
 📍 Cairo, Egypt • 🌐 https://0xmrma.com • LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
 
 ## Summary
