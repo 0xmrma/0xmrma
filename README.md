@@ -6,7 +6,7 @@
 ## Summary
 Offensive security-focused engineer and security researcher with hands-on penetration testing experience across labs, internships, and real-world open-source vulnerability research. Identified and responsibly disclosed vulnerabilities in 30+ GitHub projects, with 9x CVEs assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
 
-Reported accepted findings affecting **Google**, **Microsoft**, **NASA**, **Canonical**, **AWS**, **Yahoo**, **Red Hat**, **Ubuntu**, and **SUSE**.
+Reported accepted findings affecting **Google**, **Microsoft**, **Apple**, **NASA**, **Canonical**, **AWS**, **Yahoo**, **Red Hat**, and **SUSE**.
 
 ## Featured Work
 - **AI Voice Phishing Detection Platform**  
