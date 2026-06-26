@@ -4,7 +4,7 @@
 • 🌐 https://0xmrma.com • LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
 
 ## Summary
-Offensive security-focused engineer and security researcher with hands-on penetration testing experience across labs, internships, and real-world open-source vulnerability research. Identified and responsibly disclosed vulnerabilities in 30+ GitHub projects, with 15x CVEs assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
+Offensive security-focused engineer and security researcher with hands-on penetration testing experience across labs, internships, and real-world open-source vulnerability research. Identified and responsibly disclosed vulnerabilities in **30+** GitHub projects, with **17x CVEs** assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
 
 Reported accepted findings affecting **Google**, **Microsoft**, **Apple**, **NASA**, **Cloudflare**, **HashiCorp**, **Bloomberg**, **AWS**, **Yahoo**, and **Canonical**.
 
@@ -14,9 +14,8 @@ Reported accepted findings affecting **Google**, **Microsoft**, **Apple**, **NAS
   Link: https://0xmrma.com/startup-talk
 
 ## CVEs
-- CVE-2026-32722
 - CVE-2026-33936
-- CVE-2026-34828
+- CVE-2026-44641
 - ...
 
 ## Certifications
