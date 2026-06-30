@@ -24,7 +24,6 @@ Reported accepted findings affecting **Google**, **Microsoft**, **Apple**, **NAS
 - Fortinet Certified Professional – Secure Networking (FCP-SN)
 - Fortinet FortiOS 7.6 Administrator (NSE 4)
 - Fortinet FortiManager 7.6 Administrator (NSE 5)
-- Cisco Networking Academy: CCNA v7 (Sem 1–3)
 
 ## Contact
 - My site: https://0xmrma.com
