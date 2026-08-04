@@ -6,7 +6,7 @@
 ## Summary
 Offensive security-focused engineer and security researcher with hands-on penetration testing experience across labs, internships, and real-world open-source vulnerability research. Identified and responsibly disclosed vulnerabilities in **30+** GitHub projects, with **20x CVEs** assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
 
-Reported accepted findings affecting **Google**, **Microsoft**, **Apple**, **NASA**, **Cloudflare**, **HashiCorp**, **Bloomberg**, **AWS**, **Yahoo**, and **Canonical**.
+Acknowledged by **Google**, **Microsoft**, **Meta**, **Apple**, **NASA**, **HashiCorp**, **Bloomberg**, **Yahoo**, and **Canonical**.
 
 ## Featured Work
 - **AI Voice Phishing Detection Platform**  
@@ -26,5 +26,5 @@ Reported accepted findings affecting **Google**, **Microsoft**, **Apple**, **NAS
 - Fortinet FortiManager 7.6 Administrator (NSE 5)
 
 ## Contact
-- My site: https://0xmrma.com
+- Personal site: https://www.0xmrma.com
 - LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
