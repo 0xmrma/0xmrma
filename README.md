@@ -4,7 +4,7 @@
 • 🌐 https://www.0xmrma.com • LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
 
 ## Summary
-Offensive security-focused engineer and security researcher with hands-on penetration testing experience across labs, internships, and real-world open-source vulnerability research. Identified and responsibly disclosed vulnerabilities in **30+** GitHub projects, with **20x CVEs** assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
+Offensive security-focused engineer and security researcher with hands-on penetration testing experience. Identified and responsibly disclosed vulnerabilities in **30+** GitHub projects, with **20x CVEs** assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
 
 Acknowledged by **Google**, **Microsoft**, **Meta**, **Apple**, **NASA**, **HashiCorp**, **Bloomberg**, **Yahoo**, and **Canonical**.
 
@@ -26,5 +26,5 @@ Acknowledged by **Google**, **Microsoft**, **Meta**, **Apple**, **NASA**, **Hash
 - Fortinet FortiManager 7.6 Administrator (NSE 5)
 
 ## Contact
-- Personal site: https://www.0xmrma.com
+- Blog: https://www.0xmrma.com
 - LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
