@@ -1,7 +1,7 @@
 # Mohamed Abdelaal (0xMRMA)
 
 • **Penetration Tester • Security Researcher • Web & Network Security Testing**  
-• 🌐 https://www.0xmrma.com • LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
+• 🌐 https://www.0xmrma.com • LinkedIn: https://www.linkedin.com/in/0xmrma/
 
 ## Summary
 Offensive security-focused engineer and security researcher with hands-on penetration testing experience. Identified and responsibly disclosed vulnerabilities in **30+** GitHub projects, with **21x CVEs** assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
