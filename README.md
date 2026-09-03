@@ -14,8 +14,8 @@ Acknowledged by **Google**, **Microsoft**, **Meta**, **Apple**, **NASA**, **Hash
   Link: https://0xmrma.com/startup-talk
 
 ## CVEs
+- CVE-2026-62960
 - CVE-2026-33936
-- CVE-2026-44641
 - ...
 
 ## Certifications
