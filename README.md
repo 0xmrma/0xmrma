@@ -27,4 +27,4 @@ Acknowledged by **Google**, **Microsoft**, **Meta**, **Apple**, **NASA**, **Hash
 
 ## Contact
 - Blog: https://www.0xmrma.com
-- LinkedIn: https://www.linkedin.com/in/mohamed-abdelaal-saad/
+- LinkedIn: https://www.linkedin.com/in/0xmrma/
