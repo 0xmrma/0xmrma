@@ -19,6 +19,7 @@ Acknowledged by **Google**, **Microsoft**, **Meta**, **Apple**, **NASA**, **Hash
 - ...
 
 ## Certifications
+- eMAPT (INE)
 - eWPTXv3 (INE)
 - eJPTv2 (INE)
 - Fortinet Certified Professional – Secure Networking (FCP-SN)
