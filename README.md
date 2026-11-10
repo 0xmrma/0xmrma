@@ -4,9 +4,9 @@
 • 🌐 https://www.0xmrma.com • LinkedIn: https://www.linkedin.com/in/0xmrma/
 
 ## Summary
-Offensive security-focused engineer and security researcher with hands-on penetration testing experience. Identified and responsibly disclosed vulnerabilities in **40+** GitHub projects, with **22x CVEs** assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
+Offensive security-focused engineer and security researcher with hands-on penetration testing experience. Identified and responsibly disclosed vulnerabilities in **40+** GitHub projects, with **23x CVEs** assigned and multiple additional accepted reports pending publication. Strong foundation in web exploitation, secure code review, network security fundamentals, and professional security reporting.
 
-Acknowledged by **Google**, **Microsoft**, **Meta**, **Apple**, **NASA**, **HashiCorp**, **Bloomberg**, **Yahoo**, and **Canonical**.
+Acknowledged by **Google**, **Microsoft**, **Meta**, **Apple**, **NASA**, **AWS**, **HashiCorp**, **Bloomberg**, **Yahoo**, and **Canonical**.
 
 ## Featured Work
 - **AI Voice Phishing Detection Platform**  
